@@ -1,0 +1,10 @@
+appName = APIHUB
+version = v1.0.0
+golangPort = 10000
+host = localhost
+port = 3306
+dtbApi = db_wedding
+database = db_wedding
+user = root
+password = Tifanfajar29
+baseUrlGolang = /g/
